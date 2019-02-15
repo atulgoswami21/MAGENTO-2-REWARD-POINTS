@@ -1,8 +1,8 @@
 
 
 
-# 1.MAGENTO 2 REWARD POINTS
-"90% of all customers exchange their reward points during the checkout". Have you offered reward points for your magento 2 stores? As you may know Reward Points is an effective marketing tool for you to engage shoppers and turning old customers for new purchase over and over.Our [Magento 2 Reward Points](https://landofcoder.com/magento-2-reward-points.html/) can help you drive more sale and attract returning customers to your store
+# 1.FREE MAGENTO 2 REWARD POINTS
+"90% of all customers exchange their reward points during the checkout". Have you offered reward points for your magento 2 stores? As you may know Reward Points is an effective marketing tool for you to engage shoppers and turning old customers for new purchase over and over.Our [FREE Magento 2 Reward Points](https://landofcoder.com/magento-2-reward-points.html/) can help you drive more sale and attract returning customers to your store
 
 - Your visitors can be rewarded for multiple ways
 - [NEW] Earn Point by Refer to Friend
